@@ -1,5 +1,3 @@
-//replace the modes/index.js file with this file
-
 // import models
 const Product = require('./Product');
 const Category = require('./Category');
